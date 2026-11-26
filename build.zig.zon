@@ -1,0 +1,15 @@
+.{
+    .name = .ip2proxy,
+    .version = "1.0.0",
+    .fingerprint = 0xba0c2cd79f557cf9,
+    .minimum_zig_version = "0.16.0",
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "example",
+        "test",
+        "README.md",
+        "LICENSE",
+    },
+}
